@@ -1,0 +1,40 @@
+[L1]ライブラリ/
+[Tt] emp /
+[OO] bj /
+[ib] uild /
+[Bb] uilds /
+アセット/ AssetStoreTools *
+
+＃Visual Studioのキャッシュディレクトリ
+.vs /
+
+＃自動生成されたVS / MD / Consuloソリューションとプロジェクトファイル
+ExportedObj /
+.consulo /
+* .csproj
+* .unityproj
+* .sln
+* .suo
+* .tmp
+*。ユーザー
+* .userprefs
+* .pidb
+* .booproj
+* .svd
+* .pdb
+* .opendb
+* .VC.db
+
+＃Unity3Dで生成されたメタファイル
+* .pidb.meta
+* .pdb.meta
+
+＃Unity3Dで生成されたクラッシュレポートファイル
+sysinfo.txt
+
+＃ビルド
+* .apk
+* .unityパッケージ
+
+＃Crashlyticsファイルを生成しました
+Assets / StreamingAssets / crashlytics-build.properties
